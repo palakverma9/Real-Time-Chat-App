@@ -1,9 +1,9 @@
 const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
-const  userRoutes  = require("./routes/userRoutes");
+const  userRoutes  = require(".server/routes/userRoutes");
 const socket = require('socket.io')
-const messagesRoutes = require("./routes/messagesRoutes")
+const messagesRoutes = require(".server/routes/messagesRoutes")
 
 const app = express();
 
