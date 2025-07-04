@@ -36,7 +36,7 @@ Chaos is a real-time chat application that allows users to communicate with each
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/samarthag06/Real-time-chat.git
+    git clone https://github.com/palakverma9/Real-Time-Chat-App.git
     ```
 
 2. Navigate to the project directory:
