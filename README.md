@@ -41,7 +41,7 @@ Chaos is a real-time chat application that allows users to communicate with each
 
 2. Navigate to the project directory:
     ```bash
-    cd Chaos
+    cd Real-Time-Chat-App
     ```
 
 3. Install server dependencies:
